@@ -1,0 +1,12 @@
+{
+  "name": "test-jest-mock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_PATH=. jest"
+  },
+  "dependencies": {
+    "jest": "^19.0.2"
+  }
+}
